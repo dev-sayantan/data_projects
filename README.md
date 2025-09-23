@@ -1,2 +1,2 @@
 # sayantann_coding_development_journey
-My learning journey and projects off all kind, related to coding/development/analytics
+My learning journey and projects of all kind, related to coding/development/analytics
