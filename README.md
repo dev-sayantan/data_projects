@@ -1,2 +1,1 @@
-# sayantann_coding_development_journey
-My learning journey and projects of all kind, related to coding/development/analytics
+This project analyzes the current state of water access and uses AI to predict future challenges in the certification and implementation of the "Har Ghar Jal" mission, identifying Indian states and union territories(UT), that require proactive support.
